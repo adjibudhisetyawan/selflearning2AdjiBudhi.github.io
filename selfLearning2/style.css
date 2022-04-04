@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #e5edeb;
+}
+
+.judul{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.box{
+    text-align: center;
+    padding: 20px;
+}
+
+.header-box{
+    font-size: 30px;
+    padding: 20px;
+}
+
+.button{
+    margin: 50px;
+}
+
+.button a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+
+.button .login{
+    background-color: #99d6ed;
+}
+
+.button .regis{
+    background-color: #c6ed99;
+}
+

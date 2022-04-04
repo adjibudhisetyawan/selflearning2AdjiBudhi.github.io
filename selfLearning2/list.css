@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #fbfdac;
+}
+
+.judul{
+    text-align: center;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    background-color: #ace6fd;
+    margin: 50px;
+    padding: 20px;
+}

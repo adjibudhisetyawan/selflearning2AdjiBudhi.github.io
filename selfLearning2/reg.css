@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #c2f0f7;
+}
+
+.judul{
+    text-align: center;
+    font-size: 25px;
+    margin: 20px;
+}
+
+input{
+    border: none;
+    height: 20px;
+    margin: 0 100px 20px 20px;
+    float: right;
+    
+}
+
+.form-reg form{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+
+.almt input{
+    height: 70px;
+}
+
+.lbl{
+    margin-left: 92px;
+    cursor: pointer;
+}
+
+.back-button a{
+    text-decoration: none;
+    background-color: #fdd7ac;
+    padding: 3px 30px 3px;
+    cursor: pointer;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    float: right;
+    color: black;
+}
+
+.back-button a:hover{
+    background-color: #adf59f;
+}
+
+.submit-button{
+    background-color: #adf59f;
+    padding: 3px 30px 3px;
+    cursor: pointer;
+    border-style: solid;
+    border-radius: 5px;
+    float: right;
+    border-color: black;
+}
+
+.submit-button:hover{
+    background-color: #fdd7ac;
+}
