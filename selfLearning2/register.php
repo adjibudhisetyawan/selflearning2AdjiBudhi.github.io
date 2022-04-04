@@ -75,7 +75,7 @@
                 <input type="password" name="password2">
             </div>
             <div class="back-button">
-                <a href="index.html">Kembali</a>
+                <a href="index.php">Kembali</a>
             </div>
             <div>
                 <input type="submit" name="submit" id="submit-btn" style="display:none;">
